@@ -1,2 +1,2 @@
 # ICPC2024
-ICPC2024 - Team MAP: Macacos Atiradores de Precisão - Amauri, Rhuan e Guilherme
+![image](https://github.com/user-attachments/assets/c25d35ac-33c3-4017-b438-57d0a0db6a4c)
